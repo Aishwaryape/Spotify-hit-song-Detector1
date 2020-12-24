@@ -1,4 +1,4 @@
-# Spotify-hit-song-Detector1
+# Spotify_hit_song_Prediction
 
 Spotify music datasets from the year 1960’s to 2010 are provided. The datasets given
 consist of features for tracks abstracted from Spotify web API . A classification model is
